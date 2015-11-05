@@ -1,0 +1,3 @@
+[submodule "lib/heist"]
+	path = lib/heist
+	url = git@github.com:jystic/heist
